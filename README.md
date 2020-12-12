@@ -1,4 +1,4 @@
-##I created these projects during the last course my coursera specialisation
+## I created these projects during the last course my coursera specialisation
 
 ### PIL project 
 
